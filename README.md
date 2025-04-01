@@ -146,10 +146,10 @@ contract.events.SubscriptionRenewalReminder()
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
+This project is licensed under the **CU License**.  
 
 ## ✨ Author  
-Developed by **[Your Name]** 🚀  
+Developed by **Priyamanshu Kumar** 🚀  
 
 ---
 
